@@ -1,0 +1,17 @@
+{
+  "name": "based-hq-game",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "phaser": "^3.80.1",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
